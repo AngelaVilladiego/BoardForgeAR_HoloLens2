@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MenuOnClickObject.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Inventory.unity
+    guid: be311b6898f5eb34f8d76aab79844c0b
+  - enabled: 1
+    path: Assets/Scenes/BoardForgeAR.unity
+    guid: bcf645eb53dae064c89432212003b8e4
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ca6aea619b21cef46af160831f8c6e8f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 685a50a2258f5e0469c63e96895bae13, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1859b9271f72bb0498313774994d3839, type: 2}
